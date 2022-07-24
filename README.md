@@ -12,7 +12,7 @@
 
 # 安装
 
-> go get github.com/qhzhui/webhook
+> go get github.com/asoow/webhook
 
 > 修改conf.ini的配置，编译后用守护进程跑起来
 
